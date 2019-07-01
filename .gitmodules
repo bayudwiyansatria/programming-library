@@ -1,0 +1,3 @@
+[submodule "Library-Java"]
+	path = Library-Java
+	url = git@github.com:bayudwiyansatria/Library-Java.git
