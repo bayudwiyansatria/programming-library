@@ -5,3 +5,4 @@
 [submodule "Library-PHP"]
 	path = Library-PHP
 	url = git@github.com:bayudwiyansatria/Library-PHP.git
+	master = master
