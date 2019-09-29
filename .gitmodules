@@ -2,3 +2,6 @@
 	path = Library-Java
 	url = git@github.com:bayudwiyansatria/Library-Java.git
 	master = master
+[submodule "Library-PHP"]
+	path = Library-PHP
+	url = git@github.com:bayudwiyansatria/Library-PHP.git
