@@ -6,3 +6,6 @@
 	path = Library-PHP
 	url = git@github.com:bayudwiyansatria/Library-PHP.git
 	master = master
+[submodule "Library-Python"]
+	path = Library-Python
+	url = git@github.com:bayudwiyansatria/Library-Python.git
