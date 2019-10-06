@@ -9,3 +9,4 @@
 [submodule "Library-Python"]
 	path = Library-Python
 	url = git@github.com:bayudwiyansatria/Library-Python.git
+	master = master
