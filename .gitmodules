@@ -10,3 +10,6 @@
 	path = Library-Python
 	url = git@github.com:bayudwiyansatria/Library-Python.git
 	master = master
+[submodule "Library-C-Plus"]
+	path = Library-C-Plus
+	url = git@github.com:bayudwiyansatria/Library-C-Plus.git
