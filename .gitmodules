@@ -1,16 +1,20 @@
-[submodule "Library-Java"]
-	path = Library-Java
-	url = git@github.com:bayudwiyansatria/Library-Java.git
+[submodule "library-java"]
+	path = library-java
+	url = git@github.com:bayudwiyansatria/library-java.git
+	branch = master
 	master = master
-[submodule "Library-PHP"]
-	path = Library-PHP
-	url = git@github.com:bayudwiyansatria/Library-PHP.git
+[submodule "library-php"]
+	path = library-php
+	url = git@github.com:bayudwiyansatria/library-php.git
+	branch = master
 	master = master
-[submodule "Library-Python"]
-	path = Library-Python
-	url = git@github.com:bayudwiyansatria/Library-Python.git
+[submodule "library-python"]
+	path = library-python
+	url = git@github.com:bayudwiyansatria/library-python.git
+	branch = master
 	master = master
-[submodule "Library-C-Plus"]
-	path = Library-C-Plus
-	url = git@github.com:bayudwiyansatria/Library-C-Plus.git
+[submodule "library-c-plus"]
+	path = library-c-plus
+	url = git@github.com:bayudwiyansatria/library-c-plus.git
+	branch = master
 	master = master
